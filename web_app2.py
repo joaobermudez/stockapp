@@ -4,8 +4,8 @@ from PIL import Image
 st.write("""
 # Stock Price App
 """)
-image = Image.open("C:\\Users\\mars\\Desktop\\stock.jpg")
-st.image(image, use_column_width =True)
+#image = Image.open("C:\\Users\\mars\\Desktop\\stock.jpg")
+#st.image(image, use_column_width =True)
 
 # https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 #define the ticker symbol
